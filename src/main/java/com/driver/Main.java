@@ -7,7 +7,7 @@ public class Main {
         RWOnly rowonly = new RWOnly("Sreethar");
 
         //  System.out.print(rowonly.name);
-        //  Name has private access in RWOnly
+        // Error: Cannot directly access private member 'name'
 
         rowonly.setName("vijay");
 
