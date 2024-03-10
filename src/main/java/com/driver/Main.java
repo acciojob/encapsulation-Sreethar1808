@@ -12,7 +12,7 @@ public class Main {
         rowonly.setName("vijay");
 
         String nam = rowonly.getName();
-        System.out.println(nam);
+
     }
 
 }
